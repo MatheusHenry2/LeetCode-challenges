@@ -32,7 +32,7 @@
 // -104 <= target <= 104
 
 
-public class searchInsertChallenge {
+public class SearchInsertChallenge {
 
     public int searchInsert(int[] nums, int target) {
 
